@@ -3,10 +3,6 @@
 <h2 align="center">"The only way to do great work is to love what you do!"<p align="right"><em>-Steve Jobs</em></p></h2>
 
 
-
-
-
-
 <strong>
 <p align="center">
   <a href="https://twitter.com/saone802" target="_blank">Twitter</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -53,12 +49,6 @@ Writing Stories ✍, Reading Books 📚, Music & Singing 🎶, Making Connection
 👉 Learning Microservice and Programming 💻
 
 👉 Active on Online Communities & Actively Participating in Tech Events 🎙
-
-👉 Writing Useful Content on my **[Tech Blog](https://blog.heyprakhar.xyz)** (Check it out!) 📰
-
-👉 Happily Contributing to Open Source Projects 
-
-👉 and Working on my own Projects... Check out **[Arito](https://arito.netlify.app/)**
 
 <h2 id="skills" align='center'> Skills 🌱</h3>
 
