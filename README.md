@@ -58,9 +58,8 @@ Writing Stories ✍, Reading Books 📚, Music & Singing 🎶, Making Connection
 | ----------- | ------ |
 | **Programming & WebDev:** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3">&nbsp;<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript">&nbsp;<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python">&nbsp;<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown">&nbsp;<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json"> |
 | **Code Editors:** | <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" alt="sublimetext3">&nbsp;<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode">&nbsp;<img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="vim">&nbsp;<img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="pycharm">&nbsp;<img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="replit"> |
-| **Designing:** | <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma">&nbsp;<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva"> |
+
 | **Operating System:** | <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu">&nbsp;<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt=""> |
-| **Audio & Video Editing:** | <img src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white" alt="audacity">&nbsp;<img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/0/09/20210224205943%21OpenShot_logo.svg/120px-OpenShot_logo.svg.png" alt="OpenShot">&nbsp;<img width="30px" src="https://www.shotcut.org/assets/img/media/shotcut-logo-640x640.png" alt="Shotcut"> |
 | **Other Tools:** |  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github">&nbsp;<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git">&nbsp;<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" alt="google-sheets">&nbsp;<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">&nbsp;<img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="MSPowerpoint">
 <!-- <img src="" alt=""> -->
 <img  width="150px" align='right' src="https://i.giphy.com/media/TEILCythSScYyaaEDK/giphy.webp">
@@ -133,7 +132,7 @@ And many other contributions to open source 😇. I love contributing whatever I
 
 <h2 id="testimonials" align='center'>Testimonials</h2>
 
-If you know me for a while and want to share something about me, you can **create an [issue for testimonials](https://github.com/prakhartiwari0/prakhartiwari0/issues/new/choose).**
+If you know me for a while and want to share something about me, you can **create an [issue for testimonials](https://github.com/sawan848/sawan848/issues/new/choose).**
 
 | Name | About | Testimonial |
 | ---- | ----------- | ----------- |
@@ -143,13 +142,11 @@ If you know me for a while and want to share something about me, you can **creat
 <h2 id="social" align='center'>Social Handles 😇</h2>
 
 <p align='center'>
-<a href="https://twitter.com/Prakhartiwari0" target="_blank">
+<a href="https://twitter.com/saone802" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-</a>&nbsp;<a href="https://www.linkedin.com/in/prakhartiwari0" target="_blank">
+</a>&nbsp;<a href="https://www.linkedin.com/in/sawan-kumar-5672b5185" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
-</a>&nbsp;<a href="https://discord.gg/GXbwKewsWu" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>&nbsp;<a href="https://blog.heyprakhar.xyz" target="_blank">
-<img src="https://img.shields.io/badge/-Tech%20Blog-orange?style=for-the-badge" alt="Tech Blog">
-</a>
+</a>&nbsp;
  
  </p>
 <!-- 
@@ -157,12 +154,6 @@ If you know me for a while and want to share something about me, you can **creat
 <img src="" alt="">
 </a> 
 -->
-<p align='center'>
-<a href="https://showwcase.heyprakhar.xyz" target="_blank"><img width="28px" src="https://user-images.githubusercontent.com/65062036/194136951-89ad123f-d227-43c9-b488-d113b03fd94f.jpeg" alt="showwcase-profile"></a>&nbsp;<a href="https://dev.to/prakhartiwari0" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="devto-profile"></a>&nbsp;<a href="https://stackoverflow.com/users/13515764/prakhartiwari0" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow-profile"></a>&nbsp;<a href="https://hashnode.com/@prakhartiwari0" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="hashnode-blog"></a>&nbsp;<a href="https://codepen.io/prakhartiwari0" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen-profile"></a>
-<a href = "https://g.dev/prakhartiwari0"><img alt="google%20developer%20" src="https://img.shields.io/badge/-google%20developer%20-f35902?logo=Google%20Search%20Console&logoColor=white&style=for-the-badge">
-</a>
- </p>
-
 
 <p align='center'> <strong>I Love Connecting with amazing people like you!😄</strong></p>
 <p align='center'><strong>Take Care 🌱</strong></p>
