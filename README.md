@@ -5,18 +5,13 @@
 
 
 
-<h3 align="center" ><img src="https://readme-typing-svg.herokuapp.com?font=miracode&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=heyprakhar.xyz;blog.heyprakhar.xyz;twitter.heyprakhar.xyz;linkedin.heyprakhar.xyz;github.heyprakhar.xyz;youtube.heyprakhar.xyz;heyprakhar.xyz/links"></h3>
 
-<p align="center">
- <a href="https://www.buymeacoffee.com/sawan848"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=sawan8484&button_colour=BD5FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
-</p>
+
 
 <strong>
 <p align="center">
-  <a href="https://www.heyprakhar.xyz/" target="_blank">Website</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://blog.heyprakhar.xyz/" target="_blank">Blog</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/sawan848" target="_blank">Twitter</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sawan848" target="_blank">Linkedin</a>
+  <a href="https://twitter.com/saone802" target="_blank">Twitter</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sawan-kumar-5672b5185" target="_blank">Linkedin</a>
 </p>
 </strong>
 
@@ -38,18 +33,17 @@
 <h3 id="intro"> Namaste 🙏 </h3>
 
 **Visiting my Profile haa?** Kindly let me  **introduce** myself first!
-I am <a href="https://www.heyprakhar.xyz/" target="_blank">**Sawan Kumar**</a>, currently studying in High School.
+I am <a href="https://www.heyprakhar.xyz/" target="_blank">**Sawan Kumar**</a>, recently  completed Master's in Computer Application.
 
 I am very passionate about:
+- App Development 📱
 - Web Development 🌐
-- Programming 🖥
-- Robotics 🤖 and IoT 🔆
-- Physics 🚀
-- Mathematics 🔢
+- Machine Leraning 🤖
+- Problem Solving 
 and much more..
 
 Some of my hobbies:
-Writing Stories ✍, Reading Books 📚, Music & Singing 🎶, Making Connections🤝, Open Source📂, Content Creation🌻 etc.
+Writing Stories ✍, Reading Books 📚, Music & Singing 🎶, Making Connections🤝etc.
 
 **I am very interested in making connections with cool people like YOU!**
 
@@ -57,7 +51,7 @@ Writing Stories ✍, Reading Books 📚, Music & Singing 🎶, Making Connection
 
 <h2 id="present_status"> Present Status </h3>
 
-👉 Learning Web Development and Programming 💻
+👉 Learning Microservice and Programming 💻
 
 👉 Active on Online Communities & Actively Participating in Tech Events 🎙
 
@@ -66,16 +60,6 @@ Writing Stories ✍, Reading Books 📚, Music & Singing 🎶, Making Connection
 👉 Happily Contributing to Open Source Projects 
 
 👉 and Working on my own Projects... Check out **[Arito](https://arito.netlify.app/)**
-
-
-<h3 id="blog_posts">Recent Blog Posts</h3>
-
-<!-- BLOGPOSTS:START -->
- - 💯 [How to take care of your Health as a Developer](https://blog.heyprakhar.xyz/taking-care-of-your-health)
- - 🚀 [How to make an Awesome GitHub Profile](https://blog.heyprakhar.xyz/make-an-awesome-github-profile)
- - 🔥 [Useful websites that I have bookmarked &lpar;&amp; you should too&rpar; to Learn &amp; Practice JavaScript](https://blog.heyprakhar.xyz/useful-websites-that-i-have-bookmarked-you-should-too-to-learn-practice-javascript)
- - 🚀 [New to Open Source? Know everything you need to!](https://blog.heyprakhar.xyz/new-to-open-source-know-everything-you-need-to)
- - 💯 [Sharing my little journey of HacktoberFest with you!](https://blog.heyprakhar.xyz/sharing-my-little-journey-of-hacktoberfest-with-you)<!-- BLOGPOSTS:END -->
 
 <h2 id="skills" align='center'> Skills 🌱</h3>
 
