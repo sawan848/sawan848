@@ -116,7 +116,7 @@ And many other contributions to open source 😇. I love contributing whatever I
 | Name | Description | Proof |
 | ---- | ----------- | ----- |
 | HackOdisha 2.0 | I participated in HackOdisha 2.0 and was a part of a team. We worked on a project together and I got to learn a lot from that experience | <a href="https://certificate.givemycertificate.com/c/928982d6-1e3a-4a5d-8494-4d8acb810064" target="_blank"><img src="https://user-images.githubusercontent.com/65062036/198053762-c8ccb1b6-2903-422a-9e71-5a14c779cede.png" width="100%"/></a>|
-| Hacktoberfest 2022 | I participated and completed Hacktoberfest 2022 | <a href="https://holopin.io/@prakhar_tiwari" target="_blank"><img src="https://holopin.me/prakhar_tiwari" width="100%"/></a> |
+| Hacktoberfest 2022 | I participated and completed Hacktoberfest 2022 | <a href="https://holopin.io/@sawan_kumar" target="_blank"><img src="https://holopin.me/sawan848" width="100%"/></a> |
 
 </details>
 
@@ -124,9 +124,9 @@ And many other contributions to open source 😇. I love contributing whatever I
 <h2 id="github_stats" align='center'>GitHub Stats</h2>
 
 
-| <img src="https://github-readme-stats.vercel.app/api?username=prakhartiwari0&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Prakhar's github stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakhartiwari0&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=sawan848&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Sawan's github stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=sawan848&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" /> |
 | ------------- | ------------- |
-| <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=prakhartiwari0&theme=github" /> | <img  width="900px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakhartiwari0&layout=compact" /> |
+| <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=sawan848&theme=github" /> | <img  width="900px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawan848&layout=compact" /> |
 
 
 
