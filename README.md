@@ -46,7 +46,7 @@ Writing Stories ✍, Reading Books 📚, Music & Singing 🎶, Making Connection
 
 <h2 id="present_status"> Present Status </h3>
 
-👉 Learning Microservice and Programming 💻
+👉 Learning Microservice and Problem Solving 💻
 
 👉 Active on Online Communities & Actively Participating in Tech Events 🎙
 
@@ -84,59 +84,39 @@ Writing Stories ✍, Reading Books 📚, Music & Singing 🎶, Making Connection
 
 | Project | Description |
 | ------  | ----------- |
-| [Arito](https://github.com/prakhartiwari0/arito) | Arito is a WebApp built for practicing arithematic skills. It is designed with creativity and to have a joyful experience. It is built primarily for kids who need to practice their mathematical skills, but this can be used by anybody. |
-| [Spammer Bot](https://github.com/prakhartiwari0/SpammerBot) | It is a spammer bot that uses Python's PyAutoGui module. |
-| [Historo](https://github.com/prakhartiwari0/Historo) | It is an Open Source Web Library for history of everything! (literally) |
-| [Maths Practice App (Python Tkinter)](https://github.com/prakhartiwari0/Maths-Practice-App) | It is a Python GUI App created with Tkinter Library. It is built people who want to practice basic arithmetic. It gives you questions according to the parameters you set. |
+| [Stock Market Price Prediction](https://github.com/prakhartiwari0/arito) | This is a web application designed to allow you to practise machine learning and deep learning algorithms. It is designed for creativity and a joyful experience. It is built primarily to predict the stock market's future price using a RNN machine learning algorithm and the Streamlit framework. |
+| [Quiz Application](https://github.com/prakhartiwari0/SpammerBot) | Quiz App is a desktop application that contains MCQ questions to aid in knowledge acquisition.Tech Stack: I have used Java,  Hibernate, and MySQL. |
+| [Health Care](https://github.com/prakhartiwari0/Historo) | It is an Android application that manages the hospital management system. In the first admin step, add the new doctors, pharmacy, and hospital bed. We are assisting users in getting an appointment with the doctors, purchasing the pharmacy, and booking the hospital bed and ambulance service.  |
 
 
-
-### Open Source Projects I have contributed to ⭐:
-| Project | Description |
-| ------  | ----------- |
-|[Tourism Website](https://github.com/PritamSarbajna/tourism-website)| ADVENTURE - A simple website of a tourism agency for tourists.|
-| [BroTab](https://github.com/balta2ar/brotab) | Control your browser's tabs from the command line |
-| [MedFlare](https://github.com/prathimacode-hub/MedFlare)| Med Flare is an instant medical aid app to resolve the hassles and address the emergencies at right frame of time to the needy. |
-| [LinkTree](https://github.com/MichaelBarney/LinkFree) | A free and open source alternative to LinkTree |
-| [Stack-Docs](https://github.com/CaiJimmy/stack-docs) | Source of Stack theme's documentation |
-| [Safe Eyes](https://github.com/slgobinath/SafeEyes) | Protect your eyes from eye strain using this simple and beautiful, yet extensible break reminder | 
-
-And many other contributions to open source 😇. I love contributing whatever I can to help others! 
+ 
 
 </details>
 
 
-<h2 id="achievements" align='center'>Achievements</h2>
+<!-- <h2 id="achievements" align='center'>Achievements</h2>
 
 <details>
 <summary>Open Achievements Section</summary>
 
 <!-- <a href="" target="_blank"><img src="" width="00px"/></a> -->
 
-| Name | Description | Proof |
+<!-- | Name | Description | Proof |
 | ---- | ----------- | ----- |
 | HackOdisha 2.0 | I participated in HackOdisha 2.0 and was a part of a team. We worked on a project together and I got to learn a lot from that experience | <a href="https://certificate.givemycertificate.com/c/928982d6-1e3a-4a5d-8494-4d8acb810064" target="_blank"><img src="https://user-images.githubusercontent.com/65062036/198053762-c8ccb1b6-2903-422a-9e71-5a14c779cede.png" width="100%"/></a>|
 | Hacktoberfest 2022 | I participated and completed Hacktoberfest 2022 | <a href="https://holopin.io/@sawan_kumar" target="_blank"><img src="https://holopin.me/sawan848" width="100%"/></a> |
 
-</details>
+</details> -->
 
 
-<h2 id="github_stats" align='center'>GitHub Stats</h2>
+<!-- <h2 id="github_stats" align='center'>GitHub Stats</h2>
 
 
 | <img src="https://github-readme-stats.vercel.app/api?username=sawan848&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Sawan's github stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=sawan848&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" /> |
 | ------------- | ------------- |
-| <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=sawan848&theme=github" /> | <img  width="900px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawan848&layout=compact" /> |
+| <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=sawan848&theme=github" /> | <img  width="900px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawan848&layout=compact" /> | -->
+ 
 
-
-
-<h2 id="testimonials" align='center'>Testimonials</h2>
-
-If you know me for a while and want to share something about me, you can **create an [issue for testimonials](https://github.com/sawan848/sawan848/issues/new/choose).**
-
-| Name | About | Testimonial |
-| ---- | ----------- | ----------- |
-| **[Pritam Sarbajna](https://www.linkedin.com/in/pritam-sarbajna-74945821b/)** | **IT undergrad, Developer, Open source and cybersecurity enthusiast** | _"I've known Prakhar from github, When he contributed one of my open-source repo. After having some conversation with him I'm amazed to know that he's just in school and learnt so much. Always love to talk with these enthusiastic fellas !!! Wish you all the best for future! "_ [{Source}](https://github.com/prakhartiwari0/prakhartiwari0/issues/7) |
 
 
 <h2 id="social" align='center'>Social Handles 😇</h2>
@@ -149,11 +129,8 @@ If you know me for a while and want to share something about me, you can **creat
 </a>&nbsp;
  
  </p>
-<!-- 
-<a href="" target="_blank">
-<img src="" alt="">
-</a> 
--->
+
+
 
 <p align='center'> <strong>I Love Connecting with amazing people like you!😄</strong></p>
 <p align='center'><strong>Take Care 🌱</strong></p>
