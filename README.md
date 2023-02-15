@@ -3,7 +3,7 @@
 <h2 align="center">"The only way to do great work is to love what you do!"<p align="right"><em>-Steve Jobs</em></p></h2>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Developer%20;Mobile+App+Developer%20|%20Competitive+Programming%20|Java%20;Open%20Source%20contributor&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Developer%20;%20Mobile+App+Developer%20|%20Competitive+Programming%20|Java%20;Open%20Source%20contributor&center=true&width=500&height=50"></a>
 </p>
 <strong>
 <p align="center">
